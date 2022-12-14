@@ -1,0 +1,88 @@
+body{
+  margin: 0;
+  background-color: #E8F3D6;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+.fix{
+  position: fixed;
+  top: 0;
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-size: 90px;
+  font-family: 'Merienda', cursive;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top{
+  position: relative;
+  background-color: #E8F3D6;
+  padding-bottom: 100px;
+  padding-top: 200px;
+}
+.middle-container{
+  background-color: #E6E2C3;
+  padding-bottom: 100px;
+}
+.A{
+  background-color: Green;
+  margin-bottom: 0;
+}
+.B{
+  background-color: Green;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.C{
+  background-color: Green;
+  margin-top: 0;
+}
+.cloud-1{
+  position:absolute;
+  left:400px;
+  top:50px;
+}
+.cloud-2{
+  position:absolute;
+  right: 400px;
+}
+hr{
+  border: 10px dotted #2B3467;
+  border-bottom: none;
+  width: 35%;
+  margin: 100px auto;
+}
+.check{
+  border: 6px dashed #2B3467;
+  border-bottom:none;
+  width: 7%;
+  margin: 100px auto;
+}
+.bottom-container{
+  background-color: #227C70;
+  padding-top: 10px;
+}
+.achievements{
+  background-color: #88A47C;
+}
+/* unvisited link */
+a:link {
+  color: #472183;
+}
+
+/* visited link */
+a:visited {
+  color: #472183;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #472183;
+}
